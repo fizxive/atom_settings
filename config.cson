@@ -1,0 +1,55 @@
+"*":
+  "exception-reporting":
+    userId: "564d4c2b-9438-1504-487f-e65aaa9d7cd5"
+  welcome:
+    showOnStartup: false
+  core:
+    disabledPackages: [
+      "feedback"
+      "metrics"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "monokai-dark"
+    ]
+    excludeVcsIgnoredPaths: false
+    packagesWithKeymapsDisabled: [
+      "atom-terminal-panel"
+    ]
+  editor:
+    invisibles:
+      space: "･"
+      tab: ">"
+      eol: "↵"
+      cr: "⇥"
+    scrollPastEnd: true
+    showInvisibles: true
+    showIndentGuide: true
+    tabLength: 4
+    softWrapHangingIndent: 1
+    fontFamily: "Ricty Diminished"
+    tabType: "soft"
+    lineHeight: 1.2
+    fontSize: 15
+  autosave: {}
+  minimap:
+    plugins:
+      "find-and-replace": true
+    absoluteMode: true
+  "autocomplete-plus-async": {}
+  "autocomplete-plus":
+    confirmCompletion: "tab and enter"
+  build:
+    stealFocus: false
+  "save-session":
+    dataSaveFolder: "C:\\Users\\Elpis\\.atom\\packages\\save-session\\projects"
+  linter:
+    errorPanelHeight: 130
+  "atom-terminal-panel":
+    enableWindowAnimations: false
+    enableConsoleStartupInfo: false
+  whitespace: {}
+  "atom-ctags": {}
+".org.text":
+  editor:
+    softWrapHangingIndent: 1
