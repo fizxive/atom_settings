@@ -42,7 +42,7 @@
   build:
     stealFocus: false
   "save-session":
-    dataSaveFolder: "C:\\Users\\Elpis\\.atom\\packages\\save-session\\projects"
+    dataSaveFolder: "packages\\save-session\\projects"
   linter:
     errorPanelHeight: 130
   "atom-terminal-panel":
@@ -50,6 +50,8 @@
     enableConsoleStartupInfo: false
   whitespace: {}
   "atom-ctags": {}
+  "build-tools": {}
+  "linter-gcc": {}
 ".org.text":
   editor:
     softWrapHangingIndent: 1
